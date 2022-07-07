@@ -115,7 +115,7 @@ print  """
 \033[1;93mGITHUB
                      Pakhtoon
 \033[1;92mWHATAAPP
-                      03235543277
+                      03435573976
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;96mBlacklist WeaponZ Master PUKHTOON..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••                
@@ -256,7 +256,7 @@ ___________________________11¶____________________
                                                 
 \033[1;97m---------------------M ULLAH--------------------
 """
-CorrectUsername = "M ULLAH"
+CorrectUsername = "BROKEN"
 CorrectPassword = "PUKHTOON"
 
 loop = 'true'
@@ -532,7 +532,7 @@ def action():
 
 
 \033[1;96mThanks me later
-\033[1;95mFb\033[1;97mSOmi
+\033[1;95mFb\033[1;97mSM-Ullah
 \033[1;95myoutube\033[1;97mhttps://w ww.youtube.com/channel/UCHetqAquUkojxVvPebQpb0g"""
 
     
